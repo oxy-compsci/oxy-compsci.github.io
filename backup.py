@@ -13,7 +13,7 @@ except ModuleNotFoundError as err:
     import sys
     from os import execv
     from os.path import exists, expanduser
-    VENV = 'cs-backup'
+    VENV = 'oxy-compsci.github.io'
     VENV_PYTHON = expanduser(f'~/.venv/{VENV}/bin/python3')
     if not exists(VENV_PYTHON):
         raise FileNotFoundError(' '.join([
