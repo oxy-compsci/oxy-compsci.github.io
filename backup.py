@@ -128,10 +128,7 @@ def soup_to_md(soup):
     top_elements = []
     for element in soup.contents:
         if element.name in COPY_TAGS:
-            top_elements.append('\n'.join([
-                4 * re.match('( *)', line).group(1) + line.strip()
-                for line in element.prettify().splitlines()
-            ]))
+            top_elements.append(to_pretty_html(element))
         else:
             # convert HTML to markdown
             markdown = markdownify(str(element), heading_style='ATX', bullets='*').strip()
@@ -155,6 +152,13 @@ def soup_to_md(soup):
     return markdown.strip()
 
 
+def to_pretty_html(soup):
+    return '\n'.join([
+        4 * re.match('( *)', line).group(1) + line.strip()
+        for line in soup.prettify().splitlines()
+    ])
+
+
 def main():
     for url in get_all_urls():
         soup = get_page(url)
@@ -165,7 +169,7 @@ def main():
         else:
             slug = basename(urlsplit(url).path)
         with open(f'html/{slug}.html', 'w') as fd:
-            fd.write(content.prettify())
+            fd.write(to_pretty_html(content))
         with open(f'md/{slug}.md', 'w') as fd:
             fd.write(soup_to_md(content))
 
