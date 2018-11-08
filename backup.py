@@ -101,21 +101,17 @@ def get_content(soup):
         if not headings or level > headings[-1]:
             headings.append(level)
         heading.name = f'h{len(headings)}'
-    # create the overall HTML
-    html = '\n'.join(str(child) for child in content.contents)
-    # remove blank lines
-    html = '\n'.join(line for line in html.splitlines() if line.strip())
-    return html
+    return content
 
 
 def get_asides(soup):
-    return [aside.prettify() for aside in soup.select('aside')]
+    return list(soup.find_all('aside'))
 
 
-def html_to_md(html):
+def soup_to_md(soup):
     # convert top-level elements individually to remove leading space
     top_elements = []
-    for element in BeautifulSoup(html, 'html.parser').contents:
+    for element in soup.contents:
         if element.name in COPY_TAGS:
             top_elements.append('\n'.join([
                 4 * re.match('( *)', line).group(1) + line.strip()
@@ -153,9 +149,9 @@ def main():
         else:
             slug = basename(urlsplit(url).path)
         with open(f'html/{slug}.html', 'w') as fd:
-            fd.write(content)
+            fd.write(content.prettify())
         with open(f'md/{slug}.md', 'w') as fd:
-            fd.write(html_to_md(content))
+            fd.write(soup_to_md(content))
 
 
 if __name__ == '__main__':
