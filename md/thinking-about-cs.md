@@ -100,7 +100,7 @@ The department will determine if the course is appropriate for COMP credit, and 
 
 # **Opportunities for Computer Science Majors**
 
-* **Travel funding**: Apply for funding to support your travel to professional conferences.
+* **Travel funding**: [Apply for funding](https://docs.google.com/forms/d/e/1FAIpQLSfobeJ14jO5OTCmUQ1-QYJP9t45kBQegAlfkcaCimaqgg82Qg/viewform) to support your travel to professional conferences.
 * **Employment**: Gain a deeper understanding of computer science by serving as a tutor, mentor, or TA for computer science.
 * **Internships**: Develop your skills with hands-on industry experience. Our students have completed internships at many firms, including JPL, Facebook, Twitter, and local start-ups.
 * **Student research**: Explore a new direction in computer science research by working on original research projects in collaboration with other students and our excellent faculty.
@@ -119,6 +119,6 @@ No. Our intro class ([COMP 131](http://oxy.smartcatalogiq.com/en/2017-2018/Catal
 
 No. Computer science requires some math, and certain areas such as machine learning and data science require substantial math, but you can be a very successful computer scientist without advanced math coursework. If you are math-wary, please take [COMP 149](http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COMP-Computer-Science/100/COMP-149) as soon as you can.
 
-### *Q: Where can I join a fun group of people who are interested in technology? *
+### *Q: Where can I join a fun group of people who are interested in technology?*
 
 Join Oxy Open Source, our student-run group. They hold social activities, workshops, and other great events.

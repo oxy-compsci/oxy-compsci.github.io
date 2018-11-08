@@ -1,5 +1,7 @@
 # Academic Information for Majors and Minors
 
+![Photo of Max at 2018 Computer Science comps](https://www.oxy.edu/sites/default/files/styles/department_regular/public/2018-0413_ComputerScienceSeniorComps-120.png?itok=MQijJOaB)
+
 This page provides resources for current Computer Science majors at Oxy.
 
 * [Computer Science Tracks](#CS_Tracks)

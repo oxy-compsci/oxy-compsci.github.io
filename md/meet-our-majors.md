@@ -6,6 +6,9 @@ Updated October 2018
     <tbody>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Brenner_1_0.jpg"/>
+            </td>
+            <td>
                 <strong>
                     Allie Brenner
                 </strong>
@@ -16,6 +19,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Sr.%20Chen%2C%20W.compressed_0.jpg" style="height: 150px; width: 150px;"/>
+            </td>
+            <td>
                 <strong>
                     William Chen
                 </strong>
@@ -25,6 +31,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Cullip.150X150_0.jpg" style="width: 150px; height: 150px;"/>
+            </td>
             <td>
                 <strong>
                     Charlotte Cullip
@@ -39,6 +48,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Sr.%20Eberhardt.compressed_0.jpg" style="height: 150px; width: 150px;"/>
+            </td>
+            <td>
                 <strong>
                     Sasha Eberhardt
                 </strong>
@@ -48,6 +60,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Figueroa_0.jpg"/>
+            </td>
             <td>
                 <strong>
                     Luis Figueroa
@@ -59,6 +74,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Sr.%20Frank.150X150.jpg" style="width: 149px; height: 150px;"/>
+            </td>
+            <td>
                 <strong>
                     Allie Frank
                 </strong>
@@ -68,6 +86,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/gittleman-egan_0.jpg"/>
+            </td>
             <td>
                 <strong>
                     Dan Gittelman-Egan
@@ -79,6 +100,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/malone_0.jpg"/>
+            </td>
+            <td>
                 <strong>
                     Malone Hedges
                 </strong>
@@ -88,6 +112,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/lee.austin_0.jpg"/>
+            </td>
             <td>
                 <strong>
                     Austin Lee
@@ -99,6 +126,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Brian.Li_.150X150jpg.jpg" style="width: 150px; height: 150px;"/>
+            </td>
+            <td>
                 <strong>
                     Brian Li
                 </strong>
@@ -108,6 +138,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/palmer_0.jpg"/>
+            </td>
             <td>
                 <strong>
                     Sabrina Palmer
@@ -119,6 +152,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/schrader_0.jpg"/>
+            </td>
+            <td>
                 <strong>
                     deGrasse Schrader
                 </strong>
@@ -128,6 +164,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Drake.Song_.cropped_0.jpg" style="width: 150px; height: 156px;"/>
+            </td>
             <td>
                 <strong>
                     Drake Song
@@ -139,6 +178,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Tran_0.jpg"/>
+            </td>
+            <td>
                 <strong>
                     Emily Tran
                 </strong>
@@ -149,6 +191,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Valenzuela.jpg"/>
+            </td>
+            <td>
                 <strong>
                     Andrew Valenzuela
                 </strong>
@@ -158,6 +203,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Zelller.1.jpg" style="width: 150px; height: 172px;"/>
+            </td>
             <td>
                 <strong>
                     Chloe Zeller
@@ -172,6 +220,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Bawale.compressed.jpg" style="height: 150px; width: 150px;"/>
+            </td>
+            <td>
                 <strong>
                     Sara Bawale
                 </strong>
@@ -181,6 +232,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Bird.150X150.jpg" style="width: 150px; height: 150px;"/>
+            </td>
             <td>
                 <strong>
                     Isaiah Bird
@@ -192,6 +246,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Chan.compressed.jpg" style="width: 150px; height: 168px;"/>
+            </td>
+            <td>
                 <strong>
                     Julian Chan
                 </strong>
@@ -201,6 +258,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Connelly_0_0.jpg" style="font-size: 12.0064px; height: 150px; width: 149px;"/>
+            </td>
             <td>
                 <strong>
                     Leo Connelly
@@ -212,6 +272,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Farner.compressed.jpg" style="width: 150px; height: 171px;"/>
+            </td>
+            <td>
                 <strong>
                     Jacob Farner
                 </strong>
@@ -222,18 +285,26 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Fowler.150X150_0.jpg" style="width: 150px; height: 150px;"/>
+            </td>
+            <td>
                 <p>
-                    Hope Fowler
+                    <strong>
+                        Hope Fowler
+                    </strong>
                     <em>
                         Junior
                     </em>
-                    <p>
-                        I am a Computer Science + Politics Major, Interdisciplinary Writing Minor from a small town in Upstate New York. I look forward to exploring the intersections between computer science and politics and those intersections manifest in everyday life. I didn't learn how to code until college, so I look forward to all the challenges I will face and what I will learn by conquering them. In my free time, I enjoy hiking, collaging postcards for loved ones, and spending time with dear friends.
-                    </p>
+                </p>
+                <p>
+                    I am a Computer Science + Politics Major, Interdisciplinary Writing Minor from a small town in Upstate New York. I look forward to exploring the intersections between computer science and politics and those intersections manifest in everyday life. I didn't learn how to code until college, so I look forward to all the challenges I will face and what I will learn by conquering them. In my free time, I enjoy hiking, collaging postcards for loved ones, and spending time with dear friends.
                 </p>
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Alexis.cropped.jpg" style="width: 148px; height: 150px;"/>
+            </td>
             <td>
                 <strong>
                     Alexis Hale
@@ -248,6 +319,10 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Hou.compressed.jpg" style="width: 1px; height: 1px;"/>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Hou.150X150.jpg" style="width: 150px; height: 150px;"/>
+            </td>
+            <td>
                 <strong>
                     Jonathan Hou
                 </strong>
@@ -257,6 +332,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/huth_0.jpg"/>
+            </td>
             <td>
                 <strong>
                     Dan Huth
@@ -268,6 +346,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Capture_0.JPG"/>
+            </td>
+            <td>
                 <strong>
                     Ogo Ikefuna
                 </strong>
@@ -277,6 +358,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Malvika%20Khanna.compressed.jpg" style="width: 150px; height: 150px;"/>
+            </td>
             <td>
                 <strong>
                     Malvika Khanna
@@ -288,6 +372,9 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Joshua.Kim_.150X150.jpg" style="width: 149px; height: 150px;"/>
+            </td>
+            <td>
                 <strong>
                     Joshua Kim
                 </strong>
@@ -297,6 +384,9 @@ Updated October 2018
             </td>
         </tr>
         <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/liao.xin__0.jpg"/>
+            </td>
             <td>
                 <strong>
                     Xin Liao
@@ -308,11 +398,225 @@ Updated October 2018
         </tr>
         <tr>
             <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/mucher_0.jpg"/>
+            </td>
+            <td>
                 <strong>
                     Teagan Mucher
                 </strong>
                 <em>
                     Junior
+                </em>
+                <p>
+                    Computer science and the role of technology in people's lives have fascinated me since I took my first coding class in high school. Looking at the ever-increasing job automation and the outsize roles that a few large tech companies have come to occupy, my interests lie in the economics, sociology, and politics of technology. I also deeply enjoy problem-solving and building things with other people.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/niekus_0.jpg"/>
+            </td>
+            <td>
+                <strong>
+                    Gina Niekus
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/oh_0.jpg"/>
+            </td>
+            <td>
+                <strong>
+                    Kevin Oh
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/peng_cropped.jpg" style="width: 137px; height: 150px;"/>
+            </td>
+            <td>
+                <strong>
+                    Max Peng
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/ringmayr_0.jpg"/>
+            </td>
+            <td>
+                <strong>
+                    Leopold Ringmayr
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Xio.Rodriguez.compressed.jpg" style="width: 150px; height: 148px;"/>
+            </td>
+            <td>
+                <strong>
+                    Xio Rodriguez
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Adnan.Shihabi.jpg" style="width: 150px; height: 180px;"/>
+            </td>
+            <td>
+                <strong>
+                    Adnan Shihabi
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Paul_Sirri_150x150%20%281%29.jpg" style="width: 150px; height: 150px;"/>
+            </td>
+            <td>
+                <strong>
+                    Paul Sirri
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Joey.Sortino.compressed.jpg" style="width: 150px; height: 180px;"/>
+            </td>
+            <td>
+                <strong>
+                    Joey Sortino
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Jr.%20Jade.Wu_.compressed.jpg" style="width: 150px; height: 158px;"/>
+            </td>
+            <td>
+                <strong>
+                    Jade Wu
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Jan_Yan.jpeg" style="width: 150px; height: 150px;"/>
+            </td>
+            <td>
+                <strong>
+                    Jan Yan
+                </strong>
+                <em>
+                    Junior
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/So.%20Chen.Ethan_.compressed_0.jpg" style="height: 167px; width: 150px;"/>
+            </td>
+            <td>
+                <strong>
+                    Ethan Chen
+                </strong>
+                <em>
+                    Sophomore
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/So.%20Curley.compressed.jpg" style="width: 150px; height: 179px;"/>
+            </td>
+            <td>
+                <strong>
+                    Jacob Curley
+                </strong>
+                <em>
+                    Sophomore
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Di.Hu_.150X150.jpg" style="width: 150px; height: 150px;"/>
+            </td>
+            <td>
+                <strong>
+                    Di Hu
+                </strong>
+                <em>
+                    Sophomore
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/FullSizeRender%202_1.jpg"/>
+            </td>
+            <td>
+                <strong>
+                    Betsy Li
+                </strong>
+                <em>
+                    Sophomore
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/So.%20Annika.Puth_.compressed.jpg" style="width: 150px; height: 150px;"/>
+            </td>
+            <td>
+                <strong>
+                    Annika Puth
+                </strong>
+                <em>
+                    Sophomore
+                </em>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img alt="" src="https://www.oxy.edu/sites/default/files/assets/Computer_Science/Fr.%20Gwen.Sarapata.compressed.jpg" style="width: 150px; height: 162px;"/>
+            </td>
+            <td>
+                <strong>
+                    Gwen Sarapata
+                </strong>
+                <em>
+                    Freshman
                 </em>
             </td>
         </tr>
