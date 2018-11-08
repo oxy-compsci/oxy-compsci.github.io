@@ -8,6 +8,7 @@ try:
     import requests
     from bs4 import BeautifulSoup, Comment
     from markdownify import markdownify
+    from htmlmin import minify
 except ModuleNotFoundError as err:
     import sys
     from os import execv
@@ -63,7 +64,7 @@ def get_all_urls():
 
 def get_page(url):
     response = requests.get(url)
-    return BeautifulSoup(response.text, 'html.parser')
+    return BeautifulSoup(minify(response.text, remove_empty_space=True), 'html.parser')
 
 
 def get_content(soup):
