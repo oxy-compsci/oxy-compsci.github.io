@@ -139,9 +139,11 @@ def soup_to_md(soup):
             markdown = '\n'.join(line for line in markdown.splitlines() if line.strip())
             top_elements.append(markdown)
     # combine into single string
-    markdown = '\n'.join(top_elements)
+    markdown = '\n\n'.join(top_elements)
     # remove trailing whitespace
     markdown = '\n'.join(line.rstrip() for line in markdown.splitlines())
+    # remove consecutive blank lines
+    markdown = re.sub('\n\n\n+', '\n\n', markdown)
     # convert tabs to spaces
     markdown = markdown.replace('\t', '    ')
     # remove some Unicode characters
@@ -150,7 +152,7 @@ def soup_to_md(soup):
     # convert the other Unicode characters
     for char in set(re.findall('[^ -~\n]', markdown)):
         markdown = markdown.replace(char, f'&#{ord(char)};')
-    return markdown
+    return markdown.strip()
 
 
 def main():
