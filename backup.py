@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import re
-from html.entities import codepoint2name
 from os.path import basename
 from urllib.parse import urlsplit, urljoin
 
@@ -53,6 +52,7 @@ COPY_TAGS = set([
     'table',
 ])
 
+
 def get_all_urls():
     urls = [ROOT_URL]
     soup = get_page(ROOT_URL)
@@ -68,7 +68,7 @@ def get_page(url):
 
 def get_content(soup):
     content = soup.select('div.main')
-    if len(content) == 0:
+    if not content:
         content = soup.select('div.main-text')
     content = max(content, key=(lambda soupette: len(soupette.prettify())))
     # replace relative links with absolute links
@@ -110,7 +110,6 @@ def get_content(soup):
     headings = []
     for heading in content.select('h1,h2,h3,h4,h5,h6'):
         level = int(heading.name[1])
-        orig = level
         while headings and level < headings[-1]:
             headings.pop()
         if not headings or level > headings[-1]:
@@ -160,7 +159,6 @@ def main():
         soup = get_page(url)
         print(url)
         content = get_content(soup)
-        asides = get_asides(soup)
         if url == ROOT_URL:
             slug = 'index'
         else:
