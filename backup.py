@@ -29,6 +29,17 @@ KEEP_TAGS = set([
     'img',
 ])
 
+BLOCK_TAGS = set([
+    'div',
+    'p',
+    'h1',
+    'h2',
+    'h3',
+    'h4',
+    'h5',
+    'h6',
+])
+
 DELETE_CLASSES = set([
     'element-invisible',
     'breadcrumb',
@@ -70,9 +81,13 @@ def get_content(soup):
         for tag in content.select(f'.{delete_class}'):
             tag.decompose()
     # remove spurious container divs
-    for div in content.select('div'):
-        if len(div.contents) == 1:
-            div.replace_with(div.contents[0])
+    for div in content.find_all('div'):
+        should_unwrap = all(
+            (not child.name or child.name in BLOCK_TAGS)
+            for child in div.contents if child.name
+        )
+        if should_unwrap:
+            div.unwrap()
     # remove comments
     for comment in content(text=(lambda text: isinstance(text, Comment))):
         comment.extract()
