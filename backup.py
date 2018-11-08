@@ -133,8 +133,8 @@ def soup_to_md(soup):
             # convert HTML to markdown
             markdown = markdownify(str(element), heading_style='ATX', bullets='*').strip()
             # remove blank lines
-            markdown = '\n'.join(line for line in markdown.splitlines() if line.strip())
-            top_elements.append(markdown)
+            markdown = '\n'.join(line.rstrip() for line in markdown.splitlines() if line.strip())
+            top_elements.append(markdown.strip())
     # combine into single string
     markdown = '\n\n'.join(top_elements)
     # remove trailing whitespace
