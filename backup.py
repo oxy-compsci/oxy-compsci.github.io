@@ -25,6 +25,10 @@ except ModuleNotFoundError as err:
 ROOT_URL = 'https://www.oxy.edu/computer-science/'
 DOMAIN = '://'.join(urlsplit(ROOT_URL)[:2])
 
+KEEP_TAGS = set([
+    'img',
+])
+
 DELETE_CLASSES = set([
     'element-invisible',
     'breadcrumb',
@@ -76,7 +80,14 @@ def get_content(soup):
     while changed:
         changed = False
         for tag in content.find_all(True):
-            if not tag.text.strip():
+            should_delete = (
+                not any(
+                    tag.name == keep_tag or tag.find(keep_tag)
+                    for keep_tag in KEEP_TAGS
+                )
+                and not tag.text.strip()
+            )
+            if should_delete:
                 tag.decompose()
                 changed = True
     # use consecutively-sized headings
