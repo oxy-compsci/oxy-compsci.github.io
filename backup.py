@@ -61,9 +61,10 @@ def get_content(soup):
         content = soup.select('div.main-text')
     content = max(content, key=(lambda soupette: len(soupette.prettify())))
     # replace relative links with absolute links
-    for tag in content.find_all('a'):
-        if 'href' in tag.attrs and tag['href'].startswith('/') and not tag['href'].startswith('//'):
-            tag['href'] = DOMAIN + tag['href']
+    for tag_name, attr in [('a', 'href'), ('img', 'src')]:
+        for tag in content.find_all(tag_name):
+            if attr in tag.attrs and tag[attr].startswith('/') and not tag[attr].startswith('//'):
+                tag[attr] = DOMAIN + tag[attr]
     # remove special classes
     for delete_class in DELETE_CLASSES:
         for tag in content.select(f'.{delete_class}'):
