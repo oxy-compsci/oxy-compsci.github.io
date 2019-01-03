@@ -108,15 +108,20 @@ def get_content(soup):
             if should_delete:
                 tag.decompose()
                 changed = True
+    # fix the first heading
+    content.select('h1,h2,h3,h4,h5,h6')[0].name = 'h1'
     # use consecutively-sized headings
-    headings = []
-    for heading in content.select('h1,h2,h3,h4,h5,h6'):
-        level = int(heading.name[1])
-        while headings and level < headings[-1]:
-            headings.pop()
-        if not headings or level > headings[-1]:
-            headings.append(level)
-        heading.name = f'h{len(headings)}'
+    heading_level = 0
+    heading_skip = 0
+    headings = 6 * [0]
+    for child in content.select('*'):
+        if not child.name or child.name not in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+            continue
+        level = int(child.name[1])
+        headings[level - 1] = 1
+        correct_level = sum(headings[:level])
+        headings[level:] = (6 - level) * [0]
+        child.name = f'h{correct_level}'
     return content
 
 
