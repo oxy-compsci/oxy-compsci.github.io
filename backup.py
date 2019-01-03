@@ -4,23 +4,10 @@ import re
 from os.path import basename
 from urllib.parse import urlsplit, urljoin
 
-try:
-    import requests
-    from bs4 import BeautifulSoup, Comment
-    from markdownify import markdownify
-    from htmlmin import minify
-except ModuleNotFoundError as err:
-    import sys
-    from os import execv
-    from os.path import exists, expanduser
-    VENV = 'oxy-compsci.github.io'
-    VENV_PYTHON = expanduser(f'~/.venv/{VENV}/bin/python3')
-    if not exists(VENV_PYTHON):
-        raise FileNotFoundError(' '.join([
-            f'tried load module "{err.name}" with venv "{VENV}"',
-            f'but could not find executable {VENV_PYTHON}',
-        ]))
-    execv(VENV_PYTHON, [VENV_PYTHON, *sys.argv])
+import requests
+from bs4 import BeautifulSoup, Comment
+from markdownify import markdownify
+from htmlmin import minify
 
 ROOT_URL = 'https://www.oxy.edu/computer-science/'
 DOMAIN = '://'.join(urlsplit(ROOT_URL)[:2])
