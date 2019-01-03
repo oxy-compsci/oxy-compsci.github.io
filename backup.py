@@ -44,6 +44,8 @@ BLOCK_TAGS = set([
 DELETE_CLASSES = set([
     'element-invisible',
     'breadcrumb',
+    'visible-xs',
+    'visible-sm',
 ])
 
 DELETE_UNICODE = set([
