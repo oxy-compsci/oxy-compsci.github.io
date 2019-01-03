@@ -13,11 +13,11 @@ This page provides resources for current Computer Science majors at Oxy.
 * [FAQ](#FAQ)
 * [Forms](#Forms)
 
-# Computer Science Tracks
+## Computer Science Tracks
 
 To complete the Computer Science major, you must take an additional six courses on top of the required core coursework. These six additional courses will vary depending on which of the following three pathways through the major you select.
 
-## Computer Science Pathway
+### Computer Science Pathway
 
 To complete the computer science pathway through the major, your six additional courses must be in Computer Science, and they must meet the following requirements:
 
@@ -27,7 +27,7 @@ To complete the computer science pathway through the major, your six additional 
 
 Students will graduate with broad working knowledge of the many facets of the field, while maintaining freedom to pursue specific topics in depth. Students may count *two courses at most* from the Additional Electives list towards the major in this pathway.
 
-## Mathematics Pathway
+### Mathematics Pathway
 
 To complete the major with a mathematical emphasis, you must take or [pass out](https://www.oxy.edu/mathematics/placement) of Calculus II. You must also take:
 
@@ -38,7 +38,7 @@ To complete the major with a mathematical emphasis, you must take or [pass out](
 * Two additional courses in Computer Science at the 300-level or above
 * Two additional courses in Mathematics. Students may apply any 4-unit Mathematics course at the 300-level towards this requirement. Students may also apply MATH 212: Multivariate Calculus towards this requirement.
 
-## CS+X Pathway
+### CS+X Pathway
 
 If you are interested in pursuing the CS + X pathway, [you must submit a CS+X proposal](https://goo.gl/forms/ecDZEBrsn7rxelKi2) to the Computer Science Department Chair no later than two semesters prior to the semester of graduation and at least two weeks before Advising Week.
 
@@ -51,7 +51,7 @@ The proposal must include the following:
 
 [Complete the CS+X proposal form](https://goo.gl/forms/ecDZEBrsn7rxelKi2)
 
-### Sample Computer Science + X Themes
+#### Sample Computer Science + X Themes
 
 <table>
     <tbody>
@@ -363,7 +363,7 @@ The proposal must include the following:
     </tbody>
 </table>
 
-# About the Senior Comprehensive Project
+## About the Senior Comprehensive Project
 
 In your senior year, as part of your graduation requirements, you will complete a project on a topic in computer science. You will work on your project as part of your coursework in the Computer Science Senior Seminar (COMP 490). All majors take COMP 490 in the fall semester of the senior year. If you&#8217;re considering studying abroad, you must coordinate with the department to ensure the completion of your senior comprehensive project.
 
@@ -385,7 +385,7 @@ Distinction will be awarded by the Computer Science faculty (and in consultation
 
 Honors in Computer Science may be awarded to graduating seniors who demonstrate excellence in their coursework and earn a grade of &#8220;pass with distinction&#8221; on their senior comprehensive project. To be eligible, students must have a 3.5 grade point average in the major and a 3.25 overall grade point average.
 
-# Code of Conduct
+## Code of Conduct
 
 The Computer Science department endorses the [code of conduct](https://docs.google.com/document/d/1cWtB-Uqy4bC-phxy8mTovr8BjuKoODkt4CcpLbGG8BQ/edit) developed by the student-led [Open Source](https://oxy.presence.io/organization/oxy-open-source) club and expects computer science students to abide by it.
 
@@ -415,7 +415,7 @@ You can double count all but two courses among the upper division requirements.
 
 You apply for CS department funding with [this form](https://goo.gl/forms/HCLIrOGMKnoEIm3B2). You may also be interested in [ASP funding for academic projects](https://www.oxy.edu/undergraduate-research-center/academic-year-opportunities) and for [collaborating with faculty](https://www.oxy.edu/undergraduate-research-center/get-support).
 
-# Forms
+## Forms
 
 * [CS+X declaration form](https://docs.google.com/forms/d/e/1FAIpQLSdtQxKbzimvy1RWaYBusJ6S9vL-ox4LDsTDeOirHaOpjjB03A/viewform)
 * [Travel funding request form](https://docs.google.com/forms/d/e/1FAIpQLSfobeJ14jO5OTCmUQ1-QYJP9t45kBQegAlfkcaCimaqgg82Qg/viewform)

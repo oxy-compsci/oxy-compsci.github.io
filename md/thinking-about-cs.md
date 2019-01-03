@@ -17,13 +17,13 @@ In keeping with the liberal arts tradition, the computer science major at Oxy gi
 * [Opportunities for Computer Science Majors](#Opportunities)
 * [FAQ](#FAQ)
 
-# **Options for Studying Computer Science**
+## **Options for Studying Computer Science**
 
-## ***Major in Computer Science***
+### ***Major in Computer Science***
 
 A student majoring in Computer Science must take a *minimum* of 12 courses (48 credits).
 
-### *Core Coursework for the Major*
+#### *Core Coursework for the Major*
 
 The following seven courses make up the core of the Computer Science major. All students pursuing this major must complete these courses:
 
@@ -35,7 +35,7 @@ The following seven courses make up the core of the Computer Science major. All 
 * **[COMP 390](http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COMP-Computer-Science/300/COMP-390)**: Computer Science Junior Seminar
 * **[COMP 490](http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COMP-Computer-Science/400/COMP-490)**: Computer Science Senior Seminar
 
-### *Completing the Major*
+#### *Completing the Major*
 
 To complete the Computer Science major, students must take an additional six courses on top of the required core coursework. These six additional courses will vary depending on which of the following three pathways through the major the student selects. If you&#8217;re interested in the Computer Science major, you should meet with an advisor early on to explore these pathways:
 
@@ -45,11 +45,11 @@ To complete the Computer Science major, students must take an additional six cou
 
 The Computer Science Courses and Requirements page provides more information about these three pathways.
 
-## ***Minor in Computer Science***
+### ***Minor in Computer Science***
 
 A minor in Computer Science can help prepare students for a variety of opportunities for subsequent employment or graduate work. The minor can also provide students with models of problem solving and theoretical constructs that can shed light on human intelligence and the workings of the mind.
 
-### *Coursework for the Minor*
+#### *Coursework for the Minor*
 
 Students who are pursuing a Computer Science minor must complete the following six required courses:
 
@@ -58,23 +58,23 @@ Students who are pursuing a Computer Science minor must complete the following s
 * **[COMP 229](http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COMP-Computer-Science/200/COMP-229)**: Data Structures
 * Three 4-unit Computer Science courses at or above the 200-level. These must be in Computer Science.
 
-## ***3-2 Engineering Program***
+### ***3-2 Engineering Program***
 
 For students interested in engineering, Occidental offers a [3-2 engineering program](https://www.oxy.edu/physics/3-2-engineering-program) in partnership with the California Institute of Technology (Caltech) and Columbia University (New York City). After completing 5 years of study (the first three at Oxy; the final two at either Caltech or Columbia), students in this program graduate with two bachelor&#8217;s degrees: one from Oxy and the other from the partner institution.
 
 If you&#8217;re interested in this program, please contact Prof. Jeffrey Miller in the Computer Science and Mathematics departments. Incoming first-year students should plan to meet with a 3-2 advisor during orientation.
 
-## ***Cooperative Program With Caltech***
+### ***Cooperative Program With Caltech***
 
 As a full-time Oxy student, you can [take computer science courses at the nearby California Institute of Technology](https://www.oxy.edu/academics/programs-majors/exchange-cooperative-programs) (Caltech). While the program is usually not open to first-year students, you receive credit for all approved courses taken. No additional tuition payments are required.
 
 If you&#8217;re interested in this program, please contact Prof. Kathryn Leonard in the Computer Science department.
 
-# **How to Get Started**
+## **How to Get Started**
 
 If you&#8217;re new to computer science, the first step in learning more about the major is to take [COMP 131: Fundamentals of Computer Science](http://oxy.smartcatalogiq.com/en/2017-2018/Catalog/Courses/COMP-Computer-Science/100/COMP-131). This course is meant for beginners and assumes you have no prior programming experience. In COMP 131 you will learn to think computationally&#8212;how to break processes down into components that can be then fully described&#8212;and to develop other habits necessary for a computer scientist. Even if you don&#8217;t end up majoring or minoring in Computer Science, this course will count toward your Core requirements for Science and Mathematics, which all students need in order to graduate.
 
-## ***Computer Science Placement***
+### ***Computer Science Placement***
 
 If you have some computer science coursework under your belt from either self study, high school, or another college or university, you may be able to place out of COMP 131. Here&#8217;s how:
 
@@ -87,7 +87,7 @@ If you have some computer science coursework under your belt from either self st
 
 In general, to place out of COMP 131, a student should be proficient in variables, branches (if, else), loops (for, while), functions (parameters, scope, return -vs- print), and object-oriented programming (classes vs. instances, constructors, passing familiarity with inheritance).
 
-## *Transfer Credit*
+### *Transfer Credit*
 
 You may earn [transfer credit](http://oxy.smartcatalogiq.com/en/2018-2019/Catalog/Academic-Information-and-Policies/Transfer-Credit) for general computer science units or as course substitutions for specific Oxy courses. If you are a continuing student, please obtain transfer credit authorization before the course begins. To obtain authorization for transfer credit, please submit the following course information by email to Prof. Kathryn Leonard:
 
@@ -98,14 +98,14 @@ You may earn [transfer credit](http://oxy.smartcatalogiq.com/en/2018-2019/Catalo
 
 The department will determine if the course is appropriate for COMP credit, and at what level. The registrar will determine how many Oxy units the course will be allocated. Please note that lower-division computer science courses without significant programming are unlikely to be approved for COMP credit, though they may be eligible for Oxy credit.
 
-# **Opportunities for Computer Science Majors**
+## **Opportunities for Computer Science Majors**
 
 * **Travel funding**: [Apply for funding](https://docs.google.com/forms/d/e/1FAIpQLSfobeJ14jO5OTCmUQ1-QYJP9t45kBQegAlfkcaCimaqgg82Qg/viewform) to support your travel to professional conferences.
 * **Employment**: Gain a deeper understanding of computer science by serving as a tutor, mentor, or TA for computer science.
 * **Internships**: Develop your skills with hands-on industry experience. Our students have completed internships at many firms, including JPL, Facebook, Twitter, and local start-ups.
 * **Student research**: Explore a new direction in computer science research by working on original research projects in collaboration with other students and our excellent faculty.
 
-# **FAQ**
+## **FAQ**
 
 ### *Q: What kind of computer will I need?*
 

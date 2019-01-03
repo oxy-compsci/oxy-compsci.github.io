@@ -1,7 +1,5 @@
 # Courses & Requirements
 
-# Courses & Requirements
-
 #  Computer Science
 ##  Overview
 Computers have transformed our world technologically, economically, and socially. Although computer science has its roots in mathematics, the use of computers increasingly informs almost every academic discipline. At Occidental College, the study of Computer Science emphasizes an understanding not only of the process of computing but also of the promise and limitations of computers within an intellectual, societal, and ethical framework. A major or minor in Computer Science can help prepare students for a variety of opportunities for subsequent employment or graduate work. Moreover, the program can provide students with models of problem solving and theoretical constructs that can shed light on human intelligence and the workings of the mind.

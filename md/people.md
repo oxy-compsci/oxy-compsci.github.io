@@ -1,7 +1,5 @@
 # People
 
-# People
-
 ## Regular Faculty
 
 ### [Kathryn Leonard](https://www.oxy.edu/faculty/kathryn-leonard), Chair
